@@ -1,0 +1,5 @@
+C:\Users\ASUS\source\repos\Modul7\Modul 7_1302204050\obj\Debug\net6.0\Modul 7_1302204050.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Modul7\Modul 7_1302204050\obj\Debug\net6.0\Modul 7_1302204050.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\Modul7\Modul 7_1302204050\obj\Debug\net6.0\Modul 7_1302204050.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Modul7\Modul 7_1302204050\obj\Debug\net6.0\Modul 7_1302204050.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Modul7\Modul 7_1302204050\obj\Debug\net6.0\Modul 7_1302204050.csproj.CoreCompileInputs.cache
